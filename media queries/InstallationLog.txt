@@ -1,0 +1,93 @@
+************************************* Invoked: Sat Jul 8 15:36:55 2023
+[0] Arguments: c:\Users\Roberta-Adm\Desktop\Projects\media queries\msys2-x86_64-20230526.exe, -x, c++, -E, -dM, nul
+[3] Operations sanity check succeeded.
+[3] Warning: Cannot create lock file "C:\Users\Roberta-Adm\AppData\Local\Temp\msys2-x86_64-202305261234865.lock": The process cannot access the file because it is being used by another process.
+ (0x00000020)
+[18] UnableToStart : Unable to start installer : Another msys2-x86_64-20230526 instance is already running. Wait until it finishes, close it, or restart your system.
+************************************* Invoked: Sat Jul 8 15:38:53 2023
+[0] Arguments: c:\Users\Roberta-Adm\Desktop\Projects\media queries\msys2-x86_64-20230526.exe, -x, c++, -E, -dM, /dev/null
+[4] Operations sanity check succeeded.
+[5] Warning: Cannot create lock file "C:\Users\Roberta-Adm\AppData\Local\Temp\msys2-x86_64-202305261234865.lock": The process cannot access the file because it is being used by another process.
+ (0x00000020)
+[18] UnableToStart : Unable to start installer : Another msys2-x86_64-20230526 instance is already running. Wait until it finishes, close it, or restart your system.
+************************************* Invoked: Sat Jul 8 15:38:55 2023
+[0] Arguments: c:\Users\Roberta-Adm\Desktop\Projects\media queries\msys2-x86_64-20230526.exe, -dumpmachine
+[7] Operations sanity check succeeded.
+[8] Warning: Cannot create lock file "C:\Users\Roberta-Adm\AppData\Local\Temp\msys2-x86_64-202305261234865.lock": The process cannot access the file because it is being used by another process.
+ (0x00000020)
+[25] UnableToStart : Unable to start installer : Another msys2-x86_64-20230526 instance is already running. Wait until it finishes, close it, or restart your system.
+************************************* Invoked: Sat Jul 8 15:39:02 2023
+[0] Arguments: c:\Users\Roberta-Adm\Desktop\Projects\media queries\msys2-x86_64-20230526.exe, -x, c++, -E, -dM, nul
+[10] Operations sanity check succeeded.
+[11] Warning: Cannot create lock file "C:\Users\Roberta-Adm\AppData\Local\Temp\msys2-x86_64-202305261234865.lock": The process cannot access the file because it is being used by another process.
+ (0x00000020)
+[24] UnableToStart : Unable to start installer : Another msys2-x86_64-20230526 instance is already running. Wait until it finishes, close it, or restart your system.
+************************************* Invoked: Sat Jul 8 15:39:07 2023
+[0] Arguments: c:\Users\Roberta-Adm\Desktop\Projects\media queries\msys2-x86_64-20230526.exe, -x, c++, -E, -dM, /dev/null
+[10] Operations sanity check succeeded.
+[11] Warning: Cannot create lock file "C:\Users\Roberta-Adm\AppData\Local\Temp\msys2-x86_64-202305261234865.lock": The process cannot access the file because it is being used by another process.
+ (0x00000020)
+[26] UnableToStart : Unable to start installer : Another msys2-x86_64-20230526 instance is already running. Wait until it finishes, close it, or restart your system.
+************************************* Invoked: Sat Jul 8 15:39:13 2023
+[0] Arguments: c:\Users\Roberta-Adm\Desktop\Projects\media queries\msys2-x86_64-20230526.exe, -dumpmachine
+[6] Operations sanity check succeeded.
+[7] Warning: Cannot create lock file "C:\Users\Roberta-Adm\AppData\Local\Temp\msys2-x86_64-202305261234865.lock": The process cannot access the file because it is being used by another process.
+ (0x00000020)
+[20] UnableToStart : Unable to start installer : Another msys2-x86_64-20230526 instance is already running. Wait until it finishes, close it, or restart your system.
+************************************* Invoked: Sat Jul 8 15:39:20 2023
+[0] Arguments: c:\Users\Roberta-Adm\Desktop\Projects\media queries\msys2-x86_64-20230526.exe, -std=c++98, -m64, -Wp,-v, -E, -dM, -x, c++, nul
+[12] Operations sanity check succeeded.
+[12] Warning: Cannot create lock file "C:\Users\Roberta-Adm\AppData\Local\Temp\msys2-x86_64-202305261234865.lock": The process cannot access the file because it is being used by another process.
+ (0x00000020)
+[25] UnableToStart : Unable to start installer : Another msys2-x86_64-20230526 instance is already running. Wait until it finishes, close it, or restart your system.
+************************************* Invoked: Sat Jul 8 15:39:33 2023
+[0] Arguments: c:\Users\Roberta-Adm\Desktop\Projects\media queries\msys2-x86_64-20230526.exe, -std=c++98, -m32, -Wp,-v, -E, -dM, -x, c++, nul
+[13] Operations sanity check succeeded.
+[14] Warning: Cannot create lock file "C:\Users\Roberta-Adm\AppData\Local\Temp\msys2-x86_64-202305261234865.lock": The process cannot access the file because it is being used by another process.
+ (0x00000020)
+[30] UnableToStart : Unable to start installer : Another msys2-x86_64-20230526 instance is already running. Wait until it finishes, close it, or restart your system.
+************************************* Invoked: Sat Jul 8 15:39:42 2023
+[0] Arguments: c:\Users\Roberta-Adm\Desktop\Projects\media queries\msys2-x86_64-20230526.exe, -std=c++98, -Wp,-v, -E, -dM, -x, c++, nul
+[6] Operations sanity check succeeded.
+[6] Warning: Cannot create lock file "C:\Users\Roberta-Adm\AppData\Local\Temp\msys2-x86_64-202305261234865.lock": The process cannot access the file because it is being used by another process.
+ (0x00000020)
+[22] UnableToStart : Unable to start installer : Another msys2-x86_64-20230526 instance is already running. Wait until it finishes, close it, or restart your system.
+************************************* Invoked: Sat Jul 8 15:39:45 2023
+[0] Arguments: c:\Users\Roberta-Adm\Desktop\Projects\media queries\msys2-x86_64-20230526.exe, -x, c++, -E, -dM, nul
+[9] Operations sanity check succeeded.
+[10] Warning: Cannot create lock file "C:\Users\Roberta-Adm\AppData\Local\Temp\msys2-x86_64-202305261234865.lock": The process cannot access the file because it is being used by another process.
+ (0x00000020)
+[24] UnableToStart : Unable to start installer : Another msys2-x86_64-20230526 instance is already running. Wait until it finishes, close it, or restart your system.
+************************************* Invoked: Sat Jul 8 15:39:51 2023
+[0] Arguments: c:\Users\Roberta-Adm\Desktop\Projects\media queries\msys2-x86_64-20230526.exe, -x, c++, -E, -dM, /dev/null
+[11] Operations sanity check succeeded.
+[12] Warning: Cannot create lock file "C:\Users\Roberta-Adm\AppData\Local\Temp\msys2-x86_64-202305261234865.lock": The process cannot access the file because it is being used by another process.
+ (0x00000020)
+[24] UnableToStart : Unable to start installer : Another msys2-x86_64-20230526 instance is already running. Wait until it finishes, close it, or restart your system.
+************************************* Invoked: Sat Jul 8 15:39:55 2023
+[0] Arguments: c:\Users\Roberta-Adm\Desktop\Projects\media queries\msys2-x86_64-20230526.exe, -dumpmachine
+[9] Operations sanity check succeeded.
+[10] Warning: Cannot create lock file "C:\Users\Roberta-Adm\AppData\Local\Temp\msys2-x86_64-202305261234865.lock": The process cannot access the file because it is being used by another process.
+ (0x00000020)
+[23] UnableToStart : Unable to start installer : Another msys2-x86_64-20230526 instance is already running. Wait until it finishes, close it, or restart your system.
+************************************* Invoked: Sat Jul 8 15:40:14 2023
+[0] Arguments: c:\Users\Roberta-Adm\Desktop\Projects\media queries\msys2-x86_64-20230526.exe, -std=c17, -m64, -Wp,-v, -E, -dM, -x, c, nul
+[4] Operations sanity check succeeded.
+[14] Using metadata cache from "C:/Users/Roberta-Adm/AppData/Local/cache\\qt-installer-framework\\d75f1c19-3379-3717-ae8d-1404b51494a9"
+[14] Found 0 cached items.
+[14] Language: en-US
+[14] Script file does not exist.
+************************************* Invoked: Sat Jul 8 15:40:14 2023
+[0] Arguments: c:\Users\Roberta-Adm\Desktop\Projects\media queries\msys2-x86_64-20230526.exe, -std=c17, -m32, -Wp,-v, -E, -dM, -x, c, nul
+[3] Operations sanity check succeeded.
+[13] Using metadata cache from "C:/Users/Roberta-Adm/AppData/Local/cache\\qt-installer-framework\\d75f1c19-3379-3717-ae8d-1404b51494a9"
+[13] Found 0 cached items.
+[13] Language: en-US
+[14] Script file does not exist.
+************************************* Invoked: Sat Jul 8 15:40:14 2023
+[0] Arguments: c:\Users\Roberta-Adm\Desktop\Projects\media queries\msys2-x86_64-20230526.exe, -std=c17, -Wp,-v, -E, -dM, -x, c, nul
+[3] Operations sanity check succeeded.
+[13] Using metadata cache from "C:/Users/Roberta-Adm/AppData/Local/cache\\qt-installer-framework\\d75f1c19-3379-3717-ae8d-1404b51494a9"
+[13] Found 0 cached items.
+[13] Language: en-US
+[13] Script file does not exist.
