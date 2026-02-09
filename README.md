@@ -19,7 +19,7 @@ This project showcases the charm of various pets through structured sections, im
 **Technologies Used**
 - HTML5
 
-- CSS3
+- CSS
 
 - Media Queries for responsiveness
 
